@@ -1,1 +1,1 @@
-console.log("akk")
+console.log("akk");
